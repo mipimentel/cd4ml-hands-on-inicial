@@ -68,3 +68,10 @@ The material, ideas, and content developed for this workshop were contributions 
 * [Eric Nagler](https://github.com/ericnagler)
 * [Jin Yang](https://github.com/yytina)
 * [Jonathan Heng](https://github.com/jonheng)
+
+
+# Running Project
+
+```shell
+docker compose up -d --build --remove-orphans
+```
